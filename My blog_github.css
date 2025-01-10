@@ -21,6 +21,9 @@ body {
  	letter-spacing: 0.2rem;
  	text-align: right;
  }
+ p {
+ 	text-indent: 10px;;
+ }
 
  h2 {
  	color: #2c3e50;
